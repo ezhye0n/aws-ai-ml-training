@@ -1,6 +1,6 @@
-# 🚀 Day 2: Vision AI & Generative AI Fundamentals (Amazon Bedrock)
+## Vision AI & Generative AI Fundamentals (Amazon Bedrock)
 
-2일차 과정에서는 AWS의 핵심 AI 서비스인 Amazon Rekognition을 활용한 비전 분석 기법과 Amazon Bedrock을 통한 생성형 AI 기초, 프롬프트 엔지니어링 및 멀티턴 FAQ 챗봇 구현 방법을 학습했습니다.
+2일차 과정에서는 AWS의 핵심 AI 서비스인 Amazon Rekognition을 활용한 비전 분석 기법과 Amazon Bedrock을 통한 생성형 AI 기초, 프롬프트 엔지니어링 및 멀티턴 FAQ 챗봇 구현 방법을 학습.
 
 ---
 
